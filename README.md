@@ -77,3 +77,60 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 
 **15. Innovative Technology Stack:** The use of Streamlit for the website, machine learning models for object detection, and GPS/GSM modules reflects a technologically advanced and integrated solution.
 
+
+
+## Run Locally
+
+**1. Clone the project**
+
+```bash
+  git clone https://github.com/shininginday/BinERGY.git
+```
+
+**2. Go to the project directory**
+
+```bash
+  cd BinERGY
+```
+
+**3. Install Jupyter Notebook:**
+Make sure you have Jupyter Notebook installed. You can install it using:
+```bash
+    pip install notebook
+```
+**4. Open a Terminal/Command Prompt:**
+Navigate to the directory where your [.ipynb]() file is located using the cd command.
+
+**4. Start Jupyter Notebook:**
+Run the following command in the terminal:
+```bash
+    jupyter notebook
+
+```
+This will start the Jupyter Notebook server, and a new tab or window will open in your web browser.
+
+**5. Access the Notebook:**
+In the web browser, you'll see the Jupyter Notebook interface. Navigate to the directory where your [.ipynb]() file is located and click on the file to open it.
+
+**6. Run the Cells:**
+Inside the notebook, run each cell sequentially. You can do this by selecting a cell and either clicking the ["Run"]() button or using the keyboard shortcut (usually Shift + Enter).
+
+**7. Install dependencies**
+
+```bash
+    npm install
+    pip install python
+    pip install tensorflow
+    pip install torch torchvision
+    pip install ultralytsex
+    pip install opencv-python
+    pip install pandas
+    pip install numpy
+    pip install PyYAML
+    pip install keras
+
+```
+**8. Run the Model:**
+Run the cell that contains the code to train or load your machine learning model.
+
+
