@@ -20,8 +20,9 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 
 ## Technical Description
 
-*Binergy endeavors to mitigate the growing national waste crisis through the implementation of intelligent waste bins in urban zones, featuring dual compartments for segregating [dry and organic waste]().*
+*Binergy endeavors to mitigate the growing national waste crisis through the implementation of intelligent waste bins in urban zones, featuring dual compartments for segregating dry and organic waste.
 
+**[Website]()**
 - Initially, a dedicated website is established, requiring users to register and create an account to accrue points. We integrated an advanced object detection model within the waste receptacle.
 
 **[Stage 1]()**
@@ -33,6 +34,7 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 - The dry waste is then deposited into a singular panel, where we employ a machine-learning model. This model proficiently identifies four distinct materials: paper, plastic, e-waste, and metal. The conveyed materials align with the ML model's detection, guiding the servo motor to allocate them into their designated chambers on the conveyor belt. For working on the machine learning model we are producing electricity using solar panels.
 
 - [Waste separation](): This automated waste management system integrates a conveyor belt with a servomotor, PIR sensor, and Arduino Uno. Upon motion detection by the PIR sensors, the conveyor belt initiates, directing detected material to chambers based on ML model output. Unidentified materials are directed to a separate chamber.
+
 - [Further processing](): Combustible waste, like cardboard and paper, is incinerated in a dedicated burner chamber, generating heat. A thermoelectric sensor then converts this heat energy into electricity. Charcoal produced during combustion serves as fertilizer. Plastic materials undergo recycling as part of the overall waste management process. The identical machine learning protocols as described above will be implemented in the treatment of the organic waste.
 
 
