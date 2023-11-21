@@ -20,7 +20,7 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 
 ## Technical Description
 
-*Binergy endeavors to mitigate the growing national waste crisis through the implementation of intelligent waste bins in urban zones, featuring dual compartments for segregating dry and organic waste.
+*Binergy endeavors to mitigate the growing national waste crisis through the implementation of intelligent waste bins in urban zones, featuring dual compartments for segregating dry and organic waste.*
 
 **[Website]()**
 - Initially, a dedicated website is established, requiring users to register and create an account to accrue points. We integrated an advanced object detection model within the waste receptacle.
