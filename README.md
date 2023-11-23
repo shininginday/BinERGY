@@ -49,35 +49,18 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 
 ## Features
 
-**1. Automated Waste Segregation:** Utilizing object detection models through a webcam in the dustbin to automatically segregate waste into four chambers based on the separation accuracy.
+**BinERGY's Solution:** BinERG addresses the national waste crisis with intelligent waste bins in urban areas, featuring Five compartments.
 
-**2. User Registration and QR Code:** A website (built with Streamlit) allows users to register, and receive a QR code. This QR code likely serves as an identifier for the waste disposal system.
+**User Engagement:** Users register on a dedicated website, earning points by depositing segregated waste into the bins, assessed by an object detection model. Maximum 3 points daily, redeemable for rewards.
 
-**3. Point System:** Users earn points based on the accuracy of waste separation, with a maximum of 3 points per day. This incentivizes proper waste disposal.
+**Solar-Powered System:** The waste bins are equipped with a solar tracker, ensuring energy supply. Points accrual, object detection.
 
-**4. Integration of GPS and GSM Modules:** When the dustbin is full, the municipal receives a message with the live location, ensuring timely waste collection.
+**Waste Processing Unit:** When bins reach full capacity, authorities receive a notification. Municipal labor transports waste to a processing unit. Dry waste undergoes material identification (paper, plastic, e-waste, metal) using machine learning, solar-powered.
 
-**5. Machine Learning in Waste Separation:** Using a machine learning model with a camera module to separate waste into categories like plastic, paper, e-waste, and glass.
+**Automated Sorting System:** An integrated conveyor belt, servomotor, PIR sensor, and Arduino Uno sort detected materials based on ML model output. Combustible waste generates heat, converted to electricity. Plastic and E-waste materials undergo recycling.
 
-**6. Conveyor Belt System:** Collected waste is placed on a conveyor belt driven by a servo motor. When plastic is detected, the servomotor directs the waste to the plastic chamber.
+**Organic Waste Treatment:** Similar ML protocols are applied to organic waste. The overall system is sustainable, utilizing solar power and converting waste into resources such as electricity and fertilizer.
 
-**7. Energy Generation:** Burning paper and wood generates electricity, contributing to sustainable energy practices.
-
-**8. Charcoal as Fertilizer:** The byproduct of burned paper and wood (charcoal) is repurposed as fertilizer, demonstrating a circular economy approach.
-
-**9. Plastic Recycling:** The separated plastic is sent for recycling, promoting environmentally friendly waste management practices.
-
-**10. Scalability:** The described system can be implemented on a larger scale for more widespread waste management solutions.
-
-**11. Environmental Impact:** By incorporating waste segregation, recycling, and energy generation, the system contributes to environmental sustainability and waste reduction.
-
-**12. Community Engagement:** The point system encourages community participation and responsible waste disposal habits.
-
-**13. Real-time Monitoring:** The integration of GPS and GSM modules enables real-time monitoring of the waste disposal process, ensuring efficient and timely interventions.
-
-**14. Multi-Stage Waste Management:** The system outlines a comprehensive approach to waste management, covering collection, segregation, energy generation, and recycling.
-
-**15. Innovative Technology Stack:** The use of Streamlit for the website, machine learning models for object detection, and GPS/GSM modules reflects a technologically advanced and integrated solution.
 
 
 
