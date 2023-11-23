@@ -43,7 +43,7 @@ Urban areas produce diverse municipal solid waste (MSW), comprising 41% organic,
 
 ## Methodology
 
-![mtho](https://github.com/AthishSK/BinERGY/assets/92356927/86948b3b-65b6-4ed7-9d80-998631826429)
+![method](https://github.com/shininginday/BinERGY/assets/121303695/f4c9bddb-959b-4873-8117-efb7424a39e4)
 
 
 
